@@ -20,7 +20,7 @@ npm install -g electron-forge
 Clone the Code using the following command
 
 ```bash
-git clone https://github.com/aditya-sridhar/simple-desktop-app-electronjs.git
+git clone https://github.com/fzaman6505/Temperature-Converter-App
 ```
 
 ## Running the application
